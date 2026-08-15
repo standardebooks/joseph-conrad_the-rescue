@@ -59,7 +59,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Lingard Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<meta property="schema:abstract">The captain of a cargo ship is forced to rescue the passangers and crew of a yacht stranded on a Malaysian island.</meta>
+		<meta property="schema:abstract">The captain of a cargo ship is forced to rescue the passengers and crew of a yacht stranded on a Malaysian island.</meta>
 		<dc:description>
 			&lt;p&gt;Tom Lingard, captain of the vessel &lt;i&gt;Lightning&lt;/i&gt;, is returning to the Malaysian Archipelago to fulfill his promise to an exiled Malaysian prince and princess to help them retake control of their kingdom. Lingard’s plans are interrupted when his ship encounters a small boat that’s stranded on the same island that Lingard is to rendezvous with the prince.&lt;/p&gt;
 			&lt;p&gt;Upon arriving Lingard meets the boat’s passengers: Mr. Travers, a successful businessman and the boat’s owner, his wife Edith, and Mr. d’Alcacer, a Spanish acquaintance of theirs. Lingard encounters resistance from Mr. Travers, who refuses his help; but before Lingard can leave, the prince and princess make an appearance and upend Lingard’s plans. This is further complicated by Lingard’s having fallen for Edith Travers, and by the abrupt entrance of a local tribe bent on claiming the boat’s resources for themselves.&lt;/p&gt;
